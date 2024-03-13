@@ -1,6 +1,3 @@
-# Final Assignment ICS3U1 - Powersmash Scroller Game
-# Azeem, Shayaan
-
 # Press ESC to quit game when it is in menu
 # Press ESC to go from controls/leaderboard to menu
 # Press ESC when game is over to quit the game
